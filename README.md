@@ -1,11 +1,6 @@
 
-# Profile
-
-Đỗ Thành Danh  ドー・タイン・ザイン
-
-
-ホーチミン市情報通信大学の３年生
-
+<h1 align="center">👋　私は Đỗ Thành Danh ドー・タイン・ザイン です</h1>
+<h3 align="center">ホーチミン市情報通信大学の３年生</h3>
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white) 
